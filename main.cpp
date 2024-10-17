@@ -1,4 +1,5 @@
-#include <bits/stdc++.h> // This header includes all of the libraries
+#include <iostream>
+#include <ctime>
 
 int main(){
 
